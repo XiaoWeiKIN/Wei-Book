@@ -28,6 +28,7 @@ Wei-Book/
 | **蜈蚣博弈 (Centipede Game)** | 动态博弈、逆向归纳法悖论、信任与有限理性 | ✅ 已精读 | [查看笔记](game-theory/centipede-game.md) |
 | **博傻理论 (Greater Fool Theory)** | 资产泡沫、接盘博弈、凯恩斯选美理论 | ✅ 已精读 | [查看笔记](game-theory/greater-fool-theory.md) |
 | **格罗斯曼-斯蒂格利茨悖论** | 有效市场假说悖论、无套利均衡、战胜市场与市场消亡 | ✅ 已精读 | [查看笔记](game-theory/grossman-stiglitz-paradox.md) |
+| **反身性理论 (Reflexivity Theory)** | 认知—行为—现实反馈、Boom–Bust、价格与基本面双向因果 | ✅ 已精读 | [查看笔记](game-theory/reflexivity-theory.md) |
 
 ---
 
