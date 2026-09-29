@@ -2,22 +2,7 @@
 
 > **核心洞察**：把“命运”暂时去掉神秘主义含义，定义为一个人未来实际经历的人生轨迹——那么它不像一条已经写好的线，更像一个具有初始条件、路径依赖、反馈回路、随机扰动和有限能动性的动态系统。
 
-```mermaid
-flowchart LR
-    A["初始条件<br/>家庭/时代/身体/资源"] --> B["当前状态"]
-    B --> C["认知与解释"]
-    C --> D["选择与行为"]
-    D --> E["环境反馈"]
-    E --> F["新的现实状态"]
-    F --> C
-
-    G["他人行为"] --> E
-    H["偶然事件"] --> E
-    I["制度/社会环境"] --> E
-
-    D --> J["习惯/性格/能力"]
-    J --> C
-```
+![命运作为动态反馈系统模型](images/01-destiny-dynamic-system.png)
 
 ---
 
@@ -87,15 +72,7 @@ $$F_A(\text{失败}) \neq F_B(\text{失败})$$
 
 $$\text{性格倾向} \rightarrow \text{特定行为出现概率提高} \rightarrow \text{长期重复} \rightarrow \text{环境反馈累积} \rightarrow \text{人生轨迹分布偏转}$$
 
-```mermaid
-flowchart TD
-    A["倾向主动交流"] --> B["更频繁认识陌生人"]
-    B --> C["获得更多弱连接"]
-    C --> D["信息 / 机会来源增加"]
-    D --> E["经历发生分化"]
-    E --> F["社会能力进一步增强"]
-    F --> A
-```
+![性格倾向与条件概率分布](images/02-character-as-probability-distribution.png)
 
 这里不存在机械线性的“外向 $\Rightarrow$ 成功”，而是：
 
@@ -109,15 +86,7 @@ $$\boxed{\text{命运不是确定点预测 } Future = X\text{，而是一个条�
 
 一个人如果坚信：*“我以后一定做不好管理。”*
 
-```mermaid
-flowchart TD
-    A["认为自己不擅长管理"] --> B["心理抗拒，回避管理机会"]
-    B --> C["缺乏管理实战沉淀"]
-    C --> D["管理能力无法生长"]
-    D --> E["首次管理表现较差"]
-    E --> F["验证偏误：看吧，我果然不擅长"]
-    F --> A
-```
+![反身性负向自证预言回路](images/03-reflexivity-self-fulfilling-prophecy.png)
 
 许多人感叹的“我的命就是这样”，本质上是**对命运的负向判断深度参与了这条命运的制造过程**。
 
@@ -131,14 +100,7 @@ flowchart TD
 
 $$Outcome = F(InitialConditions, Behavior, Others, Institutions, Resources, Randomness)$$
 
-```mermaid
-flowchart LR
-    A["我的意愿"] --> F["最终现实"]
-    B["自身真实能力"] --> F
-    C["他人的博弈选择"] --> F
-    D["客观物理/制度环境"] --> F
-    E["随机扰动 ε"] --> F
-```
+![受客观约束的有限能动性模型](images/04-constrained-agency.png)
 
 因此该模型兼具批判性：
 * **既破除了“一切注定”的宿命论**；
