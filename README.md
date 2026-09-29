@@ -1,8 +1,8 @@
 # Wei-Book 📚
 
-> **Personal reading notes, book summaries, and reflections across software engineering, architecture, game theory, and personal growth.**
+> **Personal reading notes, book summaries, and reflections across software engineering, architecture, game theory, systems thinking, and personal growth.**
 > 
-> 个人读书笔记与精读思考：专注于博弈论、计算机系统底层、软件架构、分布式与高并发、工程实践及个人认知成长的沉淀。
+> 个人读书笔记与精读思考：专注于博弈论、系统思维、计算机底座、软件架构、分布式与高并发、工程实践及个人认知成长的沉淀。
 
 ---
 
@@ -13,7 +13,11 @@ Wei-Book/
 ├── game-theory/             # 博弈论与决策科学（经典博弈模型、市场机制、行为博弈）
 │   ├── centipede-game.md            # 蜈蚣博弈
 │   ├── greater-fool-theory.md       # 博傻理论
-│   └── grossman-stiglitz-paradox.md # 格罗斯曼-斯蒂格利茨悖论
+│   ├── grossman-stiglitz-paradox.md # 格罗斯曼-斯蒂格利茨悖论
+│   ├── reflexivity-theory.md        # 索罗斯反身性理论
+│   └── utility-vs-speculation.md    # 效用认知与投机风控准则
+├── systems-thinking/        # 系统思维与复杂性（反身性、因果网络、动态反馈）
+│   └── reflexivity-causality-and-destiny.md # 命运作为动态反馈系统
 └── templates/
     └── book-note-template.md        # 读书笔记标准模板
 ```
@@ -29,10 +33,16 @@ Wei-Book/
 | **博傻理论 (Greater Fool Theory)** | 资产泡沫、接盘博弈、凯恩斯选美理论 | ✅ 已精读 | [查看笔记](game-theory/greater-fool-theory.md) |
 | **格罗斯曼-斯蒂格利茨悖论** | 有效市场假说悖论、无套利均衡、战胜市场与市场消亡 | ✅ 已精读 | [查看笔记](game-theory/grossman-stiglitz-paradox.md) |
 | **反身性理论 (Reflexivity Theory)** | 认知—行为—现实反馈、Boom–Bust、价格与基本面双向因果 | ✅ 已精读 | [查看笔记](game-theory/reflexivity-theory.md) |
+| **效用认知与投机风控准则** | 效用锚定、反身性博弈、止损点与证伪逻辑 | ✅ 已精读 | [查看笔记](game-theory/utility-vs-speculation.md) |
+
+### 2. 系统思维与复杂性 (Systems Thinking)
+| 专题 / 模型 | 核心概念 | 状态 | 笔记链接 |
+| :--- | :--- | :---: | :--- |
+| **命运作为动态反馈系统** | 缘起、无为、反身性、路径依赖、复杂系统 | ✅ 已精读 | [查看笔记](systems-thinking/reflexivity-causality-and-destiny.md) |
 
 ---
 
-### 2. 系统思维与复杂性 (Systems Thinking)\n| 专题 / 模型 | 核心概念 | 状态 | 笔记链接 |\n| :--- | :--- | :---: | :--- |\n| **命运作为动态反馈系统** | 缘起、无为、反身性、路径依赖、复杂系统 | ✅ 已整理 | [查看笔记](systems-thinking/reflexivity-causality-and-destiny.md) |\n\n---\n\n## 📝 笔记记录原则
+## 📝 笔记记录原则
 
 每篇精读笔记遵循以下四层结构：
 1. **一句话概要与核心心智模型**：本书或理论解决了什么核心问题？核心推导逻辑是什么？
