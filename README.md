@@ -17,6 +17,7 @@ Wei-Book/
 │   ├── reflexivity-theory.md        # 索罗斯反身性理论
 │   └── utility-vs-speculation.md    # 效用认知与投机风控准则
 ├── systems-thinking/        # 系统思维与复杂性（反身性、因果网络、动态反馈）
+│   ├── buddhism-daoism-reflexivity.md       # 缘起、反作用与反身性（佛道因果与控制力施加）
 │   └── reflexivity-causality-and-destiny.md # 命运作为动态反馈系统
 └── templates/
     └── book-note-template.md        # 读书笔记标准模板
@@ -38,6 +39,7 @@ Wei-Book/
 ### 2. 系统思维与复杂性 (Systems Thinking)
 | 专题 / 模型 | 核心概念 | 状态 | 笔记链接 |
 | :--- | :--- | :---: | :--- |
+| **缘起、反作用与反身性** | 状态依赖、路径依赖、相生与反作用、控制力施加 | ✅ 已精读 | [查看笔记](systems-thinking/buddhism-daoism-reflexivity.md) |
 | **命运作为动态反馈系统** | 缘起、无为、反身性、路径依赖、复杂系统 | ✅ 已精读 | [查看笔记](systems-thinking/reflexivity-causality-and-destiny.md) |
 
 ---
